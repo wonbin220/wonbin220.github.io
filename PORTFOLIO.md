@@ -59,6 +59,8 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - **AJAX**를 활용하여 각 회원의 등급(예: USER, ADMIN)을 동적으로 변경할 수 있는 기능을 구현했습니다.
   - 특정 회원이 작성한 모든 게시글을 모아보는 기능을 제공하여 사용자 활동을 쉽게 추적할 수 있습니다.
 
+
+
 ### 📝 게시판 (Board)
 ![board page](https://github.com/user-attachments/assets/f59ad43e-bd91-44a7-86c5-f3d620dc9970)
 
@@ -75,6 +77,8 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - **쿠키(Cookie)** 를 이용하여 특정 시간 내 중복 조회수가 증가하지 않도록 방지하는 로직을 구현했습니다.
   - 메인 페이지에 조회수가 높은 __'Top 10 게시글'__ 과 **'최신 공지사항'** 목록을 노출하여 사용자 편의성을 높였습니다.
 
+
+
 ### 💬 댓글 (Comment)
 ![comment](https://github.com/user-attachments/assets/042980f6-6b4a-44cb-b94e-0d06a19d22a2)
 
@@ -82,6 +86,8 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - 게시글 상세 페이지에서 페이지 새로고침 없이 댓글을 작성, 수정, 삭제할 수 있도록 모든 댓글 기능을 **AJAX**로 구현했습니다.
   - **RESTful API** 형식(`@RestController`)으로 엔드포인트를 설계하여 클라이언트와의 데이터 통신을 효율적으로 관리합니다.
   - 댓글 수를 실시간으로 카운트하여 게시글 목록에 표시합니다.
+
+
 
 ### 🖥️ 메인 페이지 및 UI/UX
 ![MAIN page](https://github.com/user-attachments/assets/8f021e7e-3e61-484a-a426-45bd05900fde)
