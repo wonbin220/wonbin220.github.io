@@ -60,6 +60,7 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - 특정 회원이 작성한 모든 게시글을 모아보는 기능을 제공하여 사용자 활동을 쉽게 추적할 수 있습니다.
 
 
+ </br>
 
 ### 📝 게시판 (Board)
 ![board page](https://github.com/user-attachments/assets/f59ad43e-bd91-44a7-86c5-f3d620dc9970)
@@ -78,6 +79,7 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - 메인 페이지에 조회수가 높은 __'Top 10 게시글'__ 과 **'최신 공지사항'** 목록을 노출하여 사용자 편의성을 높였습니다.
 
 
+ </br>
 
 ### 💬 댓글 (Comment)
 ![comment](https://github.com/user-attachments/assets/042980f6-6b4a-44cb-b94e-0d06a19d22a2)
@@ -87,6 +89,7 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - **RESTful API** 형식(`@RestController`)으로 엔드포인트를 설계하여 클라이언트와의 데이터 통신을 효율적으로 관리합니다.
   - 댓글 수를 실시간으로 카운트하여 게시글 목록에 표시합니다.
 
+ </br>
 
 
 ### 🖥️ 메인 페이지 및 UI/UX
@@ -98,6 +101,7 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
     - Bootstrap을 활용하여 모바일, 태블릿, 데스크톱 등 다양한 디바이스에서 최적화된 화면을 제공합니다.
 
 
+ </br>
 
 ## 기타 프로젝트 
 > 이전 회사에서 작업한 퍼블리싱 프로젝트들
@@ -110,6 +114,8 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
 
 ### 공연예술인노조 홈페이지 제작 (www.artnojo.kr)
 <img src="https://github.com/user-attachments/assets/e5e3af5d-446c-4c79-bfde-b9d565861ac6" width="65%" height="65%">
+
+ </br>
 
 > PHP로 제작한 Beckend 작업
 
