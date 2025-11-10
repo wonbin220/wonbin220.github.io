@@ -90,7 +90,7 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
 
 
 ### 🖥️ 메인 페이지 및 UI/UX
-<img src="https://github.com/user-attachments/assets/8f021e7e-3e61-484a-a426-45bd05900fde" width="65%">
+<img src="https://github.com/user-attachments/assets/8f021e7e-3e61-484a-a426-45bd05900fde" width="65%" height="65%">
 
 - **동적 메인 페이지**
     - 메인 페이지에 최신 공지사항, Top 10 게시글, 최신 일반 게시글 목록을 동적으로 불러와 보여줌으로써 사이트의 활성도를 시각적으로 표현합니다.
