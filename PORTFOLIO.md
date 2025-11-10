@@ -27,18 +27,14 @@
     - MySQL 8.0 : 웹 애플리케이션에 매우 적합하며 안정적이고 유연한 성능을 제공
 
 - **Libraries**:
-  - **Paging**: 
-    - PageHelper : MyBatis 환경에서 복잡한 페이징 로직을 단순화하고 개발 생산성을 높이기 위해
-  - **Editor**: 
-    - Naver SmartEditor2 : 사용자 친화적인 인터페이스 제공 및 이미지 업로드 기능 지원 
-  - **Email**: 
-    - Spring Boot Starter Mail (JavaMailSender) : 이메일 발송 기능을 쉽게 구현하기 위해
+  - **Paging**: PageHelper : MyBatis 환경에서 복잡한 페이징 로직을 단순화하고 개발 생산성을 높이기 위해
+  - **Editor**: Naver SmartEditor2 : 사용자 친화적인 인터페이스 제공 및 이미지 업로드 기능 지원 
+  - **Email**:  Spring Boot Starter Mail (JavaMailSender) : 이메일 발송 기능을 쉽게 구현하기 위해
   
 
 ## 4. 주요 기능 및 담당 역할
 
 ### 👤 회원 관리 (Member Management)
-![member page]
 <img src="https://github.com/user-attachments/assets/cf4d8066-cd4b-46d8-af5c-7b7895e4626b" width="25%">
 <img src="https://github.com/user-attachments/assets/3f943095-fcd4-47c5-a840-4334f200f179" width="25%">
 <img src="https://github.com/user-attachments/assets/32de0e5b-d3b0-48f3-ae15-645eba21ca60" width="25%">
