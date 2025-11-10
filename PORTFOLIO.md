@@ -16,6 +16,11 @@
 사용자 인증, 게시판, 댓글 등 커뮤니티의 핵심 기능을 갖추고 있으며, 관리자 페이지를 통해 사용자 및 게시글을 체계적으로 관리할 수 있습니다. 
 SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극적으로 활용하여 동적인 웹 환경을 구현했습니다.
 
+
+
+ </br>
+
+
 ## 3. 기술 스택
 
 - **Backend**: 
@@ -31,7 +36,8 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
   - **Paging**: PageHelper : MyBatis 환경에서 복잡한 페이징 로직을 단순화하고 개발 생산성을 높이기 위해
   - **Editor**: Naver SmartEditor2 : 사용자 친화적인 인터페이스 제공 및 이미지 업로드 기능 지원 
   - **Email**:  Spring Boot Starter Mail (JavaMailSender) : 이메일 발송 기능을 쉽게 구현하기 위해
-  
+
+ </br>
 
 ## 4. 주요 기능 및 담당 역할
 
