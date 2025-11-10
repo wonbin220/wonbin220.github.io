@@ -97,3 +97,20 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
 - **반응형 UI**
     - Bootstrap을 활용하여 모바일, 태블릿, 데스크톱 등 다양한 디바이스에서 최적화된 화면을 제공합니다.
 
+
+
+## 기타 프로젝트 
+> 이전 회사에서 작업한 퍼블리싱 프로젝트들
+
+### 국제장애인기능올림픽_e_역사관 (https://www.kead.or.kr/abilympics/)
+<img src="https://github.com/user-attachments/assets/2bfbe9c4-c3ab-4ae7-8e61-ed504419d2a8" width="65%" height="65%">
+
+### 버블몬스터 홈페이지 제작 (https://www.bubblemonster.co.kr/)
+<img src="https://github.com/user-attachments/assets/73d1c49e-b20a-4dc4-869e-47314c65b00c" width="65%" height="65%">
+
+### 공연예술인노조 홈페이지 제작 (www.artnojo.kr)
+<img src="https://github.com/user-attachments/assets/e5e3af5d-446c-4c79-bfde-b9d565861ac6" width="65%" height="65%">
+
+> PHP로 제작한 Beckend 작업
+
+<img src="https://github.com/user-attachments/assets/4c06f43b-fff1-4e30-9237-f221bea123ad" width="65%" height="65%">
