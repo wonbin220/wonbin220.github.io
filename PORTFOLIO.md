@@ -121,8 +121,10 @@ SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극�
 ### 공연예술인노조 홈페이지 제작 (www.artnojo.kr)
 <img src="https://github.com/user-attachments/assets/e5e3af5d-446c-4c79-bfde-b9d565861ac6" width="65%" height="65%">
 
- </br>
 
-> PHP로 제작한 Beckend 작업
+ </br>
+ </br>
+ 
+### PHP로 제작한 Beckend 작업
 
 <img src="https://github.com/user-attachments/assets/4c06f43b-fff1-4e30-9237-f221bea123ad" width="65%" height="65%">
