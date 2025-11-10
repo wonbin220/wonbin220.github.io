@@ -11,7 +11,7 @@
 
 ## 2. 프로젝트 개요
 
-**pet-mily**는 Spring Boot, Spring Security, MyBatis, Thymeleaf를 기반으로 구축된 커뮤니티형 중고 자전거 거래 웹사이트입니다. 
+**pet-mily**는 Spring Boot, Spring Security, MyBatis, Thymeleaf를 기반으로 구축된 커뮤니티형 반려동물 종합 사이트 입니다. 
 
 사용자 인증, 게시판, 댓글 등 커뮤니티의 핵심 기능을 갖추고 있으며, 관리자 페이지를 통해 사용자 및 게시글을 체계적으로 관리할 수 있습니다. SmartEditor2 연동을 통해 사용자 편의성을 높였고, AJAX를 적극적으로 활용하여 동적인 웹 환경을 구현했습니다.
 
@@ -35,10 +35,10 @@
 ## 4. 주요 기능 및 담당 역할
 
 ### 👤 회원 관리 (Member Management)
-<img src="https://github.com/user-attachments/assets/cf4d8066-cd4b-46d8-af5c-7b7895e4626b" width="25%">
-<img src="https://github.com/user-attachments/assets/3f943095-fcd4-47c5-a840-4334f200f179" width="25%">
-<img src="https://github.com/user-attachments/assets/32de0e5b-d3b0-48f3-ae15-645eba21ca60" width="25%">
-<img src="https://github.com/user-attachments/assets/4e070d8a-c815-4462-a0e0-59c5036e6847" width="25%">
+<img src="https://github.com/user-attachments/assets/cf4d8066-cd4b-46d8-af5c-7b7895e4626b" width="24%">
+<img src="https://github.com/user-attachments/assets/3f943095-fcd4-47c5-a840-4334f200f179" width="24%">
+<img src="https://github.com/user-attachments/assets/32de0e5b-d3b0-48f3-ae15-645eba21ca60" width="24%">
+<img src="https://github.com/user-attachments/assets/4e070d8a-c815-4462-a0e0-59c5036e6847" width="24%">
 - **회원 인증 (Authentication & Authorization)**
   - **Spring Security**를 활용하여 안전한 로그인 및 로그아웃 기능을 구현했습니다.
   - `LoginSuccessHandler`를 커스텀하여 로그인 성공 시 사용자 정보를 세션에 저장하고, 이를 통해 인증 상태를 유지합니다.
