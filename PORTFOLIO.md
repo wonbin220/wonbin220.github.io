@@ -38,7 +38,8 @@
 ## 4. 주요 기능 및 담당 역할
 
 ### 👤 회원 관리 (Member Management)
-![member page]<img src="https://github.com/user-attachments/assets/cf4d8066-cd4b-46d8-af5c-7b7895e4626b" width="25%">
+![member page]
+<img src="https://github.com/user-attachments/assets/cf4d8066-cd4b-46d8-af5c-7b7895e4626b" width="25%">
 <img src="https://github.com/user-attachments/assets/3f943095-fcd4-47c5-a840-4334f200f179" width="25%">
 <img src="https://github.com/user-attachments/assets/32de0e5b-d3b0-48f3-ae15-645eba21ca60" width="25%">
 <img src="https://github.com/user-attachments/assets/4e070d8a-c815-4462-a0e0-59c5036e6847" width="25%">
@@ -61,7 +62,7 @@
   - 특정 회원이 작성한 모든 게시글을 모아보는 기능을 제공하여 사용자 활동을 쉽게 추적할 수 있습니다.
 
 ### 📝 게시판 (Board)
-![board page](https://github.com/user-attachments/assets/f59ad43e-bd91-44a7-86c5-f3d620dc997)
+![board page](https://github.com/user-attachments/assets/f59ad43e-bd91-44a7-86c5-f3d620dc9970)
 - **게시글 CRUD**
   - **SmartEditor2**를 연동하여 사용자가 편리하게 이미지와 텍스트를 포함한 게시글을 작성, 조회, 수정, 삭제할 수 있도록 구현했습니다.
   - MyBatis를 사용하여 데이터베이스와 통신하며, 파일 업로드 시 `FileService`를 통해 서버에 파일을 저장하고 게시글 삭제 시 관련 파일도 함께 삭제하여 **데이터 무결성**을 유지합니다.
@@ -76,7 +77,7 @@
   - 메인 페이지에 조회수가 높은 **'Top 10 게시글'**과 **'최신 공지사항'** 목록을 노출하여 사용자 편의성을 높였습니다.
 
 ### 💬 댓글 (Comment)
-![comment](https://github.com/user-attachments/assets/042980f6-6b4a-44cb-b94e-0d06a19d22a)
+![comment](https://github.com/user-attachments/assets/042980f6-6b4a-44cb-b94e-0d06a19d22a2)
 - **댓글 CRUD (AJAX)**
   - 게시글 상세 페이지에서 페이지 새로고침 없이 댓글을 작성, 수정, 삭제할 수 있도록 모든 댓글 기능을 **AJAX**로 구현했습니다.
   - **RESTful API** 형식(`@RestController`)으로 엔드포인트를 설계하여 클라이언트와의 데이터 통신을 효율적으로 관리합니다.
