@@ -8,21 +8,23 @@
 초기에는 웹 퍼블리셔로 근무하며 아래와 같이 다양한 웹사이트를 제작했습니다.
 
 ### 국제장애인기능올림픽_e_역사관 (https://www.kead.or.kr/abilympics/)
-<img src="https://github.com/user-attachments/assets/2bfbe9c4-c3ab-4ae7-8e61-ed504419d2a8" width="65%" height="65%">
+<img src="https://github.com/user-attachments/assets/2bfbe9c4-c3ab-4ae7-8e61-ed504419d2a8" width="65%" height="45%">
 
 ### 버블몬스터 홈페이지 제작 (https://www.bubblemonster.co.kr/)
-<img src="https://github.com/user-attachments/assets/73d1c49e-b20a-4dc4-869e-47314c65b00c" width="65%" height="65%">
+<img src="https://github.com/user-attachments/assets/73d1c49e-b20a-4dc4-869e-47314c65b00c" width="65%" height="45%">
 
 ### 공연예술인노조 홈페이지 제작 (www.artnojo.kr)
-<img src="https://github.com/user-attachments/assets/e5e3af5d-446c-4c79-bfde-b9d565861ac6" width="65%" height="65%">
+<img src="https://github.com/user-attachments/assets/e5e3af5d-446c-4c79-bfde-b9d565861ac6" width="65%" height="45%">
 
  </br>
 
 
 ### PHP를 활용한 백엔드 개발 경험
-<img src="https://github.com/user-attachments/assets/4c06f43b-fff1-4e30-9237-f221bea123ad" width="65%" height="65%">
+<img src="https://github.com/user-attachments/assets/4c06f43b-fff1-4e30-9237-f221bea123ad" width="65%" >
 
-이러한 경험을 통해 점차 사용자가 보지 못하는 서버 뒷단에 더 큰 흥미를 느끼게 되었습니다. 데이터베이스, 서버, API 로직 등 애플리케이션의 핵심을 다루는 백엔드 개발에 더 큰 책임감과 매력을 느껴 직무를 전향하게 되었습니다.
+PHP로 Beck-end 서비스를 조금이나마 만든 경험을 통해 점차 사용자가 보지 못하는 서버 뒷단에 더 큰 흥미를 느끼게 되었습니다. 
+데이터베이스, 서버, API 로직 등 애플리케이션의 핵심을 다루는 백엔드 개발에 더 큰 책임감과 매력을 느껴 직무를 전향하게 되었습니다.
+
 </br>
 </br>
 
